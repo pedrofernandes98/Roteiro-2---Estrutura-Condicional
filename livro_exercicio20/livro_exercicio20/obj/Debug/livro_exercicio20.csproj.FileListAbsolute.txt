@@ -1,0 +1,6 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio20\livro_exercicio20\bin\Debug\livro_exercicio20.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio20\livro_exercicio20\bin\Debug\livro_exercicio20.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio20\livro_exercicio20\bin\Debug\livro_exercicio20.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio20\livro_exercicio20\obj\Debug\livro_exercicio20.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio20\livro_exercicio20\obj\Debug\livro_exercicio20.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio20\livro_exercicio20\obj\Debug\livro_exercicio20.pdb

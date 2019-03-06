@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio7\livro_exercicio7\obj\Debug\livro_exercicio7.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio7\livro_exercicio7\obj\Debug\livro_exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio7\livro_exercicio7\bin\Debug\livro_exercicio7.exe.config
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio7\livro_exercicio7\bin\Debug\livro_exercicio7.exe
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio7\livro_exercicio7\bin\Debug\livro_exercicio7.pdb
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio7\livro_exercicio7\obj\Debug\livro_exercicio7.exe
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio7\livro_exercicio7\obj\Debug\livro_exercicio7.pdb

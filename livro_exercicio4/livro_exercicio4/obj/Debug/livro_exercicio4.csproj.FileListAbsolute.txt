@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio4\livro_exercicio4\bin\Debug\livro_exercicio4.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio4\livro_exercicio4\bin\Debug\livro_exercicio4.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio4\livro_exercicio4\bin\Debug\livro_exercicio4.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio4\livro_exercicio4\obj\Debug\livro_exercicio4.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio4\livro_exercicio4\obj\Debug\livro_exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio4\livro_exercicio4\obj\Debug\livro_exercicio4.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\livro_exercicio4\livro_exercicio4\obj\Debug\livro_exercicio4.pdb

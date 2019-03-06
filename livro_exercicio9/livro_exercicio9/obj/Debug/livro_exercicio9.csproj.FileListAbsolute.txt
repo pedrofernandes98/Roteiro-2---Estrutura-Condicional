@@ -1,0 +1,6 @@
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio9\livro_exercicio9\bin\Debug\livro_exercicio9.exe.config
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio9\livro_exercicio9\bin\Debug\livro_exercicio9.exe
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio9\livro_exercicio9\bin\Debug\livro_exercicio9.pdb
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio9\livro_exercicio9\obj\Debug\livro_exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio9\livro_exercicio9\obj\Debug\livro_exercicio9.exe
+C:\Users\Pedro Fernandes\source\repos\livro_exercicio9\livro_exercicio9\obj\Debug\livro_exercicio9.pdb

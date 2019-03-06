@@ -1,0 +1,6 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\lista_exercicio2\lista_exercicio2\obj\Debug\lista_exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\lista_exercicio2\lista_exercicio2\bin\Debug\lista_exercicio2.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\lista_exercicio2\lista_exercicio2\bin\Debug\lista_exercicio2.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\lista_exercicio2\lista_exercicio2\bin\Debug\lista_exercicio2.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\lista_exercicio2\lista_exercicio2\obj\Debug\lista_exercicio2.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro2 - Estrutura Condicional\lista_exercicio2\lista_exercicio2\obj\Debug\lista_exercicio2.pdb
